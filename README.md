@@ -7,7 +7,9 @@ Dynamic Input Number Formatter
 Then ...
 
 ```
-import dynamicInputNumberFormatter from 'dynamicInputNumberFormatter';
+import {dynamicInputNumberFormatter} from 'dynamicInputNumberFormatter';
+
+
 dynamicInputNumberFormatter(id); //for one input
 
 dynamicInputNumberFormatter(id1,id2); //for multiple inputs
