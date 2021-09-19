@@ -19,4 +19,4 @@ i.e. dynamicInputNumberFormatter('input-money');
 ```
 
 # Note 
-Input type must be number.
+Input type must be text.
