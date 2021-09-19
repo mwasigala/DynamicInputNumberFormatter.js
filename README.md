@@ -1,7 +1,7 @@
 # What is this?
 Dynamic Input Number Formatter
 
-#installation
+# installation
 `npm install dynamicInputNumberFormatter --save`
 
 Then ...
