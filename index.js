@@ -50,4 +50,4 @@ function formatInputNumber(...ids){
    
 }
 
-// module.exports.formatInputNumber = formatInputNumber;
+/* module.exports.formatInputNumber = formatInputNumber;*/
