@@ -4,6 +4,8 @@ Dynamic Input Number Formatter
 # installation
 `npm install dynamicinputnumberformatter --save`
 
+
+
 Then ...
 
 ```
@@ -25,4 +27,16 @@ formatInputNumber(id1,id2); //for multiple inputs
 Input type must be text.
 ```
 <input type='text'>
+```
+
+# CDN
+```
+<script src='https://cdn.jsdelivr.net/gh/mwasigala/DynamicInputNumberFormatter.js@latest/index.min.js'></script> //minified
+<script src='https://cdn.jsdelivr.net/gh/mwasigala/DynamicInputNumberFormatter.js@latest/index.js'></script>
+```
+
+#Example
+```
+    formatInputNumber('input-money'); 
+    formatInputNumber('input-money','input-quantity');
 ```
