@@ -2,7 +2,7 @@
 **********************************************************
 * DynamicInputNumberFormatter.js | https://github.com/mwasigala/DynamicInputNumberFormatter.js
 * 
-* Version:		v1.0.0
+* Version:		v1.0.3
 * Author:		Caroline Saimon Mwasigala
 * Release:		September 20 2021
 * 
@@ -50,4 +50,4 @@ function formatInputNumber(...ids){
    
 }
 
-module.exports.formatInputNumber = formatInputNumber;
+// module.exports.formatInputNumber = formatInputNumber;
