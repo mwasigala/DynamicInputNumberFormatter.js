@@ -2,7 +2,7 @@
 **********************************************************
 * DynamicInputNumberFormatter.js | https://github.com/mwasigala/DynamicInputNumberFormatter.js
 * 
-* Version:		v1.0.3
+* Version:		v1.0.4
 * Author:		Caroline Saimon Mwasigala
 * Release:		September 20 2021
 * 

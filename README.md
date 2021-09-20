@@ -1,8 +1,9 @@
 # What is this?
 Dynamic Input Number Formatter
 
-# NPM installation
+# [NPM](https://www.npmjs.com/package/dynamicinputnumberformatter) installation
 `npm install dynamicinputnumberformatter --save`
+
 
 
 
