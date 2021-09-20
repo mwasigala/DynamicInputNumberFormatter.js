@@ -1,12 +1,10 @@
 # What is this?
 Dynamic Input Number Formatter
 
-# installation
+# NPM installation
 `npm install dynamicinputnumberformatter --save`
 
 
-
-Then ...
 
 ```
 import {formatInputNumber} from 'dynamicinputnumberformatter/index.js';
