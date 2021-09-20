@@ -36,4 +36,6 @@ Input type must be text.
 <input type='text'>
 ```
 
+# Demo
+[Demo](https://jsfiddle.net/kalolyte/xhab3e7q/4/)
 
